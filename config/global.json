@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "1.4.2"
+  },
+  "applications": {
+    "_default": {
+      "link": "bookm"
+    },
+    "bookm": {
+      "applicationId": "oJ87FGVi0gzZSQhlFhg0xJnUXglqc2oR5WPwxQdQ",
+      "masterKey": "TsdMrDTB9aei3PeAI9S4LCdtwWc46eooBHkwZx6x"
+    }
+  }
+}
