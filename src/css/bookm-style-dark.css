@@ -4314,3 +4314,12 @@ ul.social-icons-information a:hover {
     visibility: hidden;
   }
 }
+
+.prototypes {
+  margin-top: 15px;
+
+}
+.prototypes li {
+  display:inline-block;
+  margin: 0 20px 0 20px;
+}
