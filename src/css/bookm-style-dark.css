@@ -1248,7 +1248,7 @@ header {
 /* logo */
 #logo {
   position: relative;  /*width:100%;
-                                      max-height: 111px;*/
+                                        max-height: 111px;*/
   margin: 0 auto;
 }
 .logo {
@@ -3663,7 +3663,7 @@ ul.social-icons-information a:hover {
   /* logo */
   #logo {
     max-width: 50%;    /*display: none;
-                                        visibility: hidden;*/
+                                          visibility: hidden;*/
   }
   .tagline {
     font-size: 12px !important;
@@ -3969,7 +3969,7 @@ ul.social-icons-information a:hover {
 }
 .about-left {
   margin: 0 auto;
-  width: 100%;
+  width: 90%;
   text-align: left;
 }
 ul.about-list {
