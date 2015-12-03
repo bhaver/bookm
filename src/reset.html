@@ -1,0 +1,8 @@
+<script>
+console.log(document.location.href);
+var tokens = document.location.href.split('=');
+console.log(tokens);
+var key = tokens[tokens.length-1];
+console.log(key);
+window.location.href = 'http://cnn.com/reset/' + key;
+</script>
